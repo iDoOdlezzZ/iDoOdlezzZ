@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://i.gifer.com/8Q8N.gif" width="100"/>
+  <img src="https://i.gifer.com/8Q8N.mp4" width="100"/>
 </div>
 <div id="badges">
   <a href="https://www.linkedin.com/in/doodlezzz/">
