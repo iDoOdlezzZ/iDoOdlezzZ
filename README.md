@@ -2,7 +2,7 @@
 <h1 align="center">Привет, меня зовут Максим</a>
 <h2 align="center">Я тестировщик</a>
 <h3 align="center">Добро пожаловать в мой Github</a>
-<br>
+
 <div id="badges">
   <br>
   <a href="https://www.linkedin.com/in/doodlezzz/">
