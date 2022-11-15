@@ -4,6 +4,7 @@
 <h3 align="center">Добро пожаловать в мой Github</a>
 <br>
 <div id="badges">
+  <br>
   <a href="https://www.linkedin.com/in/doodlezzz/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
