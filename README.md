@@ -1,3 +1,7 @@
+
+<h1 align="center">Привет, меня зовут Максим</a>
+<h1 align="center">Я тестировщик</a>
+<h1 align="center">Добро пожаловать в мой Github</a>
 <div id="badges">
   <a href="https://www.linkedin.com/in/doodlezzz/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -9,10 +13,6 @@
     <img src="https://img.shields.io/badge/Telegram-inactive?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
   </a>
 </div>
-<h1 align="center">Привет, меня зовут Максим</a>
-<h1 align="center">Я тестировщик</a>
-<h1 align="center">Добро пожаловать в мой Github</a>
-
 
 
 <div id="badges">
