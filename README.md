@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/myresume-btightgreen?logo=google&logoColor=white&style=for-the-badge" alt="GoogleDisk Badge"/>
   </a>
   <a href="https://t.me/Do_OdlezzZ">
-    <img src="https://img.shields.io/badge/Telegram-black?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
+    <img src="https://img.shields.io/badge/Telegram-inactive?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
   </a>
 </div>
 <h1 align="center">Привет, меня зовут Максим</a>
