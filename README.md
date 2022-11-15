@@ -1,6 +1,5 @@
-
 <div align="center">
-  <img src=https://proudalenku.ru/wp-content/uploads/bfi_thumb/testirovshchik-po-obuchenie-p8uj41a7v9yaz5akolf1bntu6zc8bhu8tg4fj2ip4o.png" width="600" height="300"/>
+  <img src="https://proudalenku.ru/wp-content/uploads/bfi_thumb/testirovshchik-po-obuchenie-p8uj41a7v9yaz5akolf1bntu6zc8bhu8tg4fj2ip4o.png" width="600" height="300"/>
 </div>
 <h1 align="center">Привет, меня зовут Максим</a>
 <h2 align="center">Я тестировщик</a>
