@@ -20,8 +20,9 @@
   </a>
 </div>
 
+<h3> Check out my project </h3>
 
-
+[Personal events](https://github.com/iDoOdlezzZ/Personal-Events)
 
 
 <!--### Hi there 👋
