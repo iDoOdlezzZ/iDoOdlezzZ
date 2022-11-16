@@ -3,9 +3,9 @@
 </div>
 -->
 
-<h1 align="center">Привет, меня зовут Максим 👋</a>
-<h2 align="center">Я тестировщик</a>
-<h3 align="center">Добро пожаловать в мой Github</a>
+<h1 align="center">Hi there, i`m Maksim 👋</a>
+<h2 align="center">I`m QA Engineer</a>
+<h3 align="center">Welcome to my Github!</a>
 
 <div id="badges">
   <br>
